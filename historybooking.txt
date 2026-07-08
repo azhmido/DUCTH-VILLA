@@ -1,1 +1,2 @@
-Villa: Lakeside, Malam: 1, Harga: Rp1800000, Chek In: 2026-05-10 02:05:22, Chek Out: 2026-05-11 02:05:22
+Villa: Garden, Malam: 3, Harga: Rp3900000, Chek In: 2026-07-09 00:24:46, Chek Out: 2026-07-12 00:24:46
+Villa: Sunrise, Malam: 3, Harga: Rp4500000, Chek In: 2026-07-09 00:26:39, Chek Out: 2026-07-12 00:26:39
