@@ -1,0 +1,8 @@
+Garden 1300000
+Sunrise 1500000
+Lakeside 1800000
+Forest 2000000
+Mountainview 2200000
+Sunset 2500000
+Skyview 2800000
+Oceanview 3000000

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "CRUD.C": "cpp",
+        "stdbool.h": "c"
+    },
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
